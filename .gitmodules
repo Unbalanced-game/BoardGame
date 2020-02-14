@@ -1,0 +1,4 @@
+[submodule "game"]
+	path = game
+	url = https://github.com/Unbalanced-game/unbalanced-assets
+	branch = rendered
